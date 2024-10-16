@@ -14,7 +14,7 @@ const emitter = new EventEmitter();
  
 
 const corsOptions = {
-    origin: 'https://media-fnbuh3zsl-rakhiwhos-projects.vercel.app',  
+    origin: 'https://media-fnbuh3zsl-rakhiwhos-projects.vercel.app/',  
     credentials: true,
   };
 
