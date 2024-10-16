@@ -14,7 +14,7 @@ const emitter = new EventEmitter();
  
 
 const corsOptions = {
-    origin: 'http://localhost:5173',  
+    origin: 'https://media-fnbuh3zsl-rakhiwhos-projects.vercel.app',  
     credentials: true,
   };
 
